@@ -1,0 +1,6 @@
+count is Promise { <pending> }
+title ADIDAS ORIGINAL
+title ZARA COAT 3
+click
+clicked
+ | 6a315d2117ee3e78bae45692 | 

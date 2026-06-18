@@ -1,0 +1,8 @@
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+3
+in for loop for options count
+ British Indian Ocean Territory
+in for loop for options count
+ India
+selected india  India
+ | 6a315d2417ee3e78bae456b7 | 
